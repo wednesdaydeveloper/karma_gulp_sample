@@ -18,4 +18,7 @@ Happy coding!
 The Cloud9 IDE team
 
 ここを参考にしました。
+
 http://qiita.com/kt3k@github/items/df783ae54caa4eeca2ae
+
+http://qiita.com/hosomichi/items/7464c69bf54927d019a7
